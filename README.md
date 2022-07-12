@@ -4,7 +4,7 @@ Compartilhando o repositório para o desafio de projeto do Bootcamp JavaScript G
 
 Link do GitHub Pages para quem quiser conferir na integra como a aplicação ficou:
 
-https://cleberbarros1.github.io/web-portifolium-desafio-Bootcamp-TQI/
+ https://cleberbarros1.github.io/clone-instagram-page-Front-End/
 
 
 
